@@ -1,7 +1,7 @@
 **RHplusLab** is an open-source project initiated by **Roboin**, a student club at Yonsei University, since July 2022. The project involves building and studying robotic arms ranging from **2-axis** to **6-axis** and ultimately a **22-axis humanoid robot**.  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18e9f206-0c33-4498-8f07-3423f72ff3f9" height="400"/>
+  <img src="https://github.com/user-attachments/assets/d0c76f60-3221-4bb3-877c-068951234286" height="400"/>
   <div>&nbsp;</div>
   <div>&nbsp;</div>
 </div>
